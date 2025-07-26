@@ -39,6 +39,12 @@ Binary indicators for whether the respondent advertises on:
 - WhatsApp
 - Snapchat
 
+### ✅ Dependent Variables
+The target variable is `social_sales_score` and it is grouped into:
+- Low (<= 4),
+- Medium (<= 7 and > 4),
+- High (> 7) impact for ordinal classification.
+
 ---
 
 ## ⚙️ Technologies Used

@@ -28,6 +28,10 @@ This variable is a composite of three questionnaire items:
 3. **Correlation between engagement and sales** (0–2)
 
 The sum produces a score from **1 to 10** indicating perceived sales impact from social media use.
+The target variable is `social_sales_score` and it is grouped into:
+- Low (<= 4),
+- Medium (<= 7 and > 4),
+- High (> 7) impact for ordinal classification.
 
 ### ✅ Independent Variables
 Binary indicators for whether the respondent advertises on:
@@ -38,12 +42,6 @@ Binary indicators for whether the respondent advertises on:
 - YouTube
 - WhatsApp
 - Snapchat
-
-### ✅ Dependent Variables
-The target variable is `social_sales_score` and it is grouped into:
-- Low (<= 4),
-- Medium (<= 7 and > 4),
-- High (> 7) impact for ordinal classification.
 
 ---
 

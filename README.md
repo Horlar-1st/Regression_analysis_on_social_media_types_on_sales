@@ -51,7 +51,8 @@ Binary indicators for whether the respondent advertises on:
 - 📊 SPSS (optional for alternate analysis)
 - 📄 Google Forms / MS Word (for questionnaire)
 - 📈 Python: Seaborn, matplotlib.pyplot (for data cleaning and visualization)
-
+- 📈 Python: Gradio (for analysis visualization)
+- 
 ---
 
 

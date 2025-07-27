@@ -31,7 +31,7 @@ The sum produces a score from **1 to 10** indicating perceived sales impact from
 The target variable is `social_sales_score` and it is grouped into:
 - Low (<= 4),
 - Medium (<= 7 and > 4),
-- High (> 7) impact for ordinal classification.
+- High (> 7) impact.
 
 ### ✅ Independent Variables
 Binary indicators for whether the respondent advertises on:

@@ -52,7 +52,27 @@ Binary indicators for whether the respondent advertises on:
 - 📄 Google Forms / MS Word (for questionnaire)
 - 📈 Python: Seaborn, matplotlib.pyplot (for data cleaning and visualization)
 - 📈 Python: Gradio (for analysis visualization)
-- 
+  
 ---
-
+```
+📁 Regression_analysis_on_social_media_types_on_sales/
+│
+├── 📄 README.md
+│
+├── 📁 data/
+│   ├── 📄 responses.csv                  # 📥 Raw data files (CSV)
+│   ├── 📄 advert_categories.csv          # 🧹 Cleaned and categorised data 
+│   └── 📄 clean_advert.csv               # 🧹 Cleaned and numerical data ready for processing
+│
+├── 📁 notebooks/
+│   ├── 📓 clean_category.ipynb             # 🔍 Read raw data and categorise
+│   ├── 📓 working_on_the_categories.ipynb  # 🔍 Cleaning and rating essantial columns
+│   └── 📓 advert_analysis.ipynb            # 📊 Exploratory Data Analysis and Regression models
+│
+│
+└── 📁 images/
+    ├── 🖼️ catergory_by_media.PNG
+    ├── 🖼️ catergory_by_media_type.PNG
+    └── 🖼️ number_of_ads_per_category.PNG
+```
 

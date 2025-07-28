@@ -57,22 +57,27 @@ Binary indicators for whether the respondent advertises on:
 ```
 📁 Regression_analysis_on_social_media_types_on_sales/
 │
-├── 📄 README.md
 │
 ├── 📁 data/
-│   ├── 📄 responses.csv                  # 📥 Raw data files (CSV)
-│   ├── 📄 advert_categories.csv          # 🧹 Cleaned and categorised data 
-│   └── 📄 clean_advert.csv               # 🧹 Cleaned and numerical data ready for processing
+│    ├── 📄 responses.csv                  # 📥 Raw data files (CSV)
+│    ├── 📄 advert_categories.csv          # 🧹 Cleaned and categorised data 
+│    └── 📄 clean_advert.csv               # 🧹 Cleaned and numerical data ready for processing
+│
+├── 📁 docs/
+│    ├── 🖼️ Social_Media_Advertising_Questionnaire.pdf
+│    └── 🖼️ report.pdf
+│
+├── 📁 images/
+│    ├── 🖼️ catergory_by_media.PNG
+│    ├── 🖼️ catergory_by_media_type.PNG
+│    └── 🖼️ number_of_ads_per_category.PNG
 │
 ├── 📁 notebooks/
-│   ├── 📓 clean_category.ipynb             # 🔍 Read raw data and categorise
-│   ├── 📓 working_on_the_categories.ipynb  # 🔍 Cleaning and rating essantial columns
-│   └── 📓 advert_analysis.ipynb            # 📊 Exploratory Data Analysis and Regression models
+│    ├── 📓 clean_category.ipynb             # 🔍 Read raw data and categorise
+│    ├── 📓 working_on_the_categories.ipynb  # 🔍 Cleaning and rating essantial columns
+│    └── 📓 advert_analysis.ipynb            # 📊 Exploratory Data Analysis and Regression models
 │
-│
-└── 📁 images/
-    ├── 🖼️ catergory_by_media.PNG
-    ├── 🖼️ catergory_by_media_type.PNG
-    └── 🖼️ number_of_ads_per_category.PNG
+└── 📄 README.md
+
 ```
 

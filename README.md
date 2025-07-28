@@ -1,6 +1,6 @@
 # 📊 Regression Analysis on Social Media Types and Sales Performance
 
-Welcome to the project repository for **Regression Analysis on Social Media Types and Their Impact on Sales Performance**. This study investigates how the use of various social media platforms for advertising influences the perceived sales performance of businesses.
+This is a project repository for **Regression Analysis on Social Media Types and Their Impact on Sales Performance**. This study investigates how the use of various social media platforms for advertising influences the perceived sales performance of businesses.
 
 ---
 

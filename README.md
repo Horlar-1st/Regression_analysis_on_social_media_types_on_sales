@@ -64,8 +64,8 @@ Binary indicators for whether the respondent advertises on:
 │    └── 📄 clean_advert.csv               # 🧹 Cleaned and numerical data ready for processing
 │
 ├── 📁 docs/
-│    ├── 🖼️ Social_Media_Advertising_Questionnaire.pdf
-│    └── 🖼️ report.pdf
+│    ├── 📄 Social_Media_Advertising_Questionnaire.pdf
+│    └── 📄 report.pdf
 │
 ├── 📁 images/
 │    ├── 🖼️ catergory_by_media.PNG
@@ -80,4 +80,8 @@ Binary indicators for whether the respondent advertises on:
 └── 📄 README.md
 
 ```
+
+## 🧠 How to Use
+
+
 

@@ -82,6 +82,8 @@ Binary indicators for whether the respondent advertises on:
 ```
 
 ## 🧠 How to Use
+- Download the repository as a zip file.
+- Run the Python notebook `clean_category.ipynb` first. As that will take the raw file.
 
 
 

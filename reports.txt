@@ -1,0 +1,29 @@
+Clothing & Apparel Coefficients: 
+Facebook: 	 0.513
+Instagram: 	 0.000
+Twitter: 	 1.810
+LinkedIn: 	 0.000
+WhatsApp: 	 4.220
+TikTok: 	 3.474
+Telegram: 	 0.000
+Snapchat: 	 0.000
+
+Food & Beverages Coefficients: 
+Facebook: 	 0.666
+Instagram: 	 0.000
+Twitter: 	 0.000
+LinkedIn: 	 1.156
+WhatsApp: 	 6.030
+TikTok: 	 1.812
+Telegram: 	 0.000
+Snapchat: 	 0.000
+
+Home Appliances Coefficients: 
+Facebook: 	 3.564
+Instagram: 	 0.000
+Twitter: 	 0.152
+LinkedIn: 	 0.000
+WhatsApp: 	 3.097
+TikTok: 	 3.469
+Telegram: 	 0.000
+Snapchat: 	 0.000

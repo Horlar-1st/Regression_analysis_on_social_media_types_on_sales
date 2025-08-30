@@ -88,7 +88,7 @@ for i, col in enumerate(clothing_df.drop(columns=["categories", "sales_score"]).
 
 
 # Write the coefficients to a text file
-with open("data/reports.txt", "w") as f:
+with open("docs/reports.txt", "w") as f:
     f.write("Clothing & Apparel Coefficients: \n")
     for i, col in enumerate(clothing_df.drop(columns=["categories", "sales_score"]).columns):
         f.write(f"{col}: \t {clothing_coef[0][i]:.3f}\n")
@@ -103,7 +103,7 @@ for i, col in enumerate(food_df.drop(columns=["categories", "sales_score"]).colu
     print(f"{col}: \t {food_coef[0][i]:.3f}")
 
 # Append the coefficients to the text file
-with open("data/reports.txt", "a") as f:
+with open("docs/reports.txt", "a") as f:
     f.write("\nFood & Beverages Coefficients: \n")
     for i, col in enumerate(food_df.drop(columns=["categories", "sales_score"]).columns):
         f.write(f"{col}: \t {food_coef[0][i]:.3f}\n")
@@ -117,7 +117,7 @@ for i, col in enumerate(home_df.drop(columns=["categories", "sales_score"]).colu
     print(f"{col}: \t {home_coef[0][i]:.3f}")
 
 # Append the coefficients to the text file
-with open("data/reports.txt", "a") as f:
+with open("docs/reports.txt", "a") as f:
     f.write("\nHome Appliances Coefficients: \n")
     for i, col in enumerate(home_df.drop(columns=["categories", "sales_score"]).columns):
         f.write(f"{col}: \t {home_coef[0][i]:.3f}\n")
@@ -183,3 +183,4 @@ iSales = gr.Interface(
 
 # Launch the Gradio app
 iSales.launch()
+

@@ -14,4 +14,5 @@ Category Counts After Cleaning:
 categories
 Clothing & Apparel    40
 Home Appliances       28
+
 Food & Beverages      27

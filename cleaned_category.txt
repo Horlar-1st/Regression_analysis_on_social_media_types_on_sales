@@ -1,0 +1,17 @@
+Cleaned Categories:
+- Home Appliances
+- Clothing & Apparel
+- Food & Beverages
+- nan
+
+
+Social Media Advertising Usage:
+Do you use social media platforms for advertising?
+Yes    96
+No      6
+
+Category Counts After Cleaning:
+categories
+Clothing & Apparel    40
+Home Appliances       28
+Food & Beverages      27

@@ -30,7 +30,7 @@ This variable is a composite of three questionnaire items:
 The sum produces a score from **1 to 10** indicating perceived sales impact from social media use.
 The target variable is `social_sales_score` and it is grouped into:
 - Low (<= 4),
-- Medium (<= 7 and > 4),
+- Medium (<= 7 and > 4), and
 - High (> 7) impact.
 
 ### ✅ Independent Variables

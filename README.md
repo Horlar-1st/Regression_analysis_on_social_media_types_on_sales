@@ -39,7 +39,7 @@ Binary indicators for whether the respondent advertises on:
 - Instagram
 - Twitter (X)
 - TikTok
-- YouTube
+- LinkedIn
 - WhatsApp
 - Snapchat
 

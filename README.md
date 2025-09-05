@@ -72,7 +72,7 @@ Binary indicators for whether the respondent advertises on:
 │    ├── 🖼️ catergory_by_media_type.PNG
 │    └── 🖼️ number_of_ads_per_category.PNG
 │
-├── 📁 notebooks/
+├── 📁 scripts/
 │    ├── 📓 clean_category.ipynb             # 🔍 Read raw data and categorise
 │    ├── 📓 working_on_the_categories.ipynb  # 🔍 Cleaning and rating essantial columns
 │    └── 📓 advert_analysis.ipynb            # 📊 Exploratory Data Analysis and Regression models

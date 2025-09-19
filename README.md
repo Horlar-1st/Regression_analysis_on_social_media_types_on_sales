@@ -47,7 +47,7 @@ Binary indicators for whether the respondent advertises on:
 
 ## ⚙️ Technologies Used
 
-- 🐍 Python (pandas, statsmodels)
+- 🐍 Python (pandas, statsmodels, sklearn)
 - 📊 SPSS (optional for alternate analysis)
 - 📄 Google Forms / MS Word (for questionnaire)
 - 📈 Python: Seaborn, matplotlib.pyplot (for data cleaning and visualization)
